@@ -1,6 +1,6 @@
 # Labola_la
 
-https://labola.la
+https://labola.la <--- the project is paused for now it may back soon.
 
 LaBOLA aim you to connect with other players near you, to enjoy sports.
 
